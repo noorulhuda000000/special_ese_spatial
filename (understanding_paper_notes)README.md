@@ -202,20 +202,20 @@ Dataset links and tutorial resources will be added alongside reproduction materi
 ## Team & Contributions
 
 ### Paper Analysis
-
+Noor ul Huda
 * Literature review
 * Methodology understanding
 * Figure interpretation
 * README preparation
+* Google Colab implementation (CNV visualization, Clustering analysis, Spatial clone simulations)
 
-### Reproduction
 
-* Google Colab implementation
-* CNV visualization
-* Clustering analysis
-* Spatial clone simulations
-
-### Tutorial Execution
-
+### Reproduction(Following the tutorial)
+Maryam Ashraf
 * SpatialInferCNV tutorial workflow
 * Output generation and validation
+
+
+### organizing and PPt 
+Amna Zulfiqar
+
