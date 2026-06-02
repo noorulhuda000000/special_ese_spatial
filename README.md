@@ -66,3 +66,31 @@ The official SpatialInferCNV tutorial workflow is currently being evaluated.
 Tutorial outputs and observations will be added to the repository as they become available.
 
 ---
+## My Simplified Reproduction of the Paper
+
+Since the complete SpatialInferCNV workflow requires specialized R packages, spatial transcriptomics datasets, and significant computational resources, a simplified conceptual reproduction was implemented in Google Colab using Python.
+
+The goal was not to exactly reproduce the original paper results, but to recreate and understand the core ideas presented by the authors.
+
+The following concepts were reproduced:
+
+### CNV Heatmap
+
+A simulated Copy Number Variation (CNV) heatmap was generated to understand how copy number gains and losses can be visualized across different clones. This was inspired by the CNV visualizations used throughout the paper to identify genetically distinct populations.
+
+### Clone Identification Through Clustering
+
+Hierarchical clustering was performed on simulated CNV profiles to understand how spots with similar genomic patterns can be grouped into clones. This reproduces the basic concept behind clone discovery in the SpatialInferCNV workflow.
+
+### Spatial Clone Visualization
+
+A synthetic tissue grid was created to visualize how different clones can occupy distinct spatial regions within tissue. This was inspired by the spatial clone maps presented in the paper.
+
+### Clone Abundance Analysis
+
+A clone size distribution plot was generated to compare the relative abundance of different clones. This demonstrates the concept of clonal heterogeneity discussed in the study.
+
+### Learning Outcome
+
+These reproductions provided a practical understanding of the major analytical concepts used in the paper, including CNV visualization, clone identification, spatial organization of clones, and clonal heterogeneity.
+these can be found in the ipynb file uploaded.
