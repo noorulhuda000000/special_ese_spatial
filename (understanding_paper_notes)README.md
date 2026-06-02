@@ -116,27 +116,27 @@ These findings suggest that genetic alterations may arise before visible cancer 
 
 ## Figures Summary
 
-### Figure 1
+![Figure 1](figures/1.png)
 
 Identification of clone structure in prostate cancer tissue using inferred CNVs and hierarchical clustering.
 
-### Figure 2
+![Figure 2](figures/2.png)
 
 Overview of spatial tissue sections analyzed from the patient.
 
-### Figure 3
+![Figure 3](figures/3.png)
 
 Histological annotations showing benign and tumor regions across tissue sections.
 
-### Figure 4
+![Figure 4](figures/4.png)
 
 Spatial visualization of clone distribution within tissue.
 
-### Figure 5
+![Figure 5](figures/5.png)
 
 Comparison of clone CNV profiles and evolutionary relationships. Shared CNVs suggest common ancestry among clones.
 
-### Figure 6
+![Figure 6](figures/6.png)
 
 Comparison between histological annotations and clone structure, including FISH validation of MYC and PTEN alterations.
 
